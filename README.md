@@ -4,7 +4,9 @@ Projeto de uma landing page, que contém um card de um tênis Nike, moderna que 
 
 Nesse projeto foram abordados assuntos como: tags semânticas, flexbox, responsividade, alternância de cores, manipulação do DOM.
 
-Construído a partir do vídeo (https://bit.ly/3LlOdbS) do canal do YouTube: Matheus Battisti-Hora de Codar (https://bit.ly/3VuPLoP).
+Construído a partir do vídeo (https://bit.ly/3LlOdbS) do canal do YouTube: "Matheus Battisti-Hora de Codar" (https://bit.ly/3VuPLoP).
+
+Menção Honrosa - Vídeos que me inspiraram a aprender sobre mudança de cores: vídeo (https://bit.ly/3nqCdy1) do canal do YouTube "Mr. Web Designer" (https://bit.ly/3lPoIHp), vídeo (https://bit.ly/3AReD0u) do canal do YouTube "Mr. Web Designer" (https://bit.ly/3lPoIHp) e vídeo (https://bit.ly/40ZFDW3) do canal do YouTube "CodingLab" (https://bit.ly/42mxX1c).
 
 ![Captura da Web_3-5-2023_115549_emersoncarneirodasilva github io](https://user-images.githubusercontent.com/94311606/235954960-6bd1b183-3973-4d83-ac56-894a952f91d7.jpeg)
 
